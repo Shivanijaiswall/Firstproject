@@ -1,4 +1,4 @@
 # Firstproject
 This is my first Git Repository.
 <br>
-Author - Shivani Jaiswal
+Author - Shivani (Mycode)
